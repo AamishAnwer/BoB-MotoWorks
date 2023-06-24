@@ -480,7 +480,7 @@ function App() {
           </h1>
 
           <p className="mt-4 text-center text-gray-500 dark:text-cyan-600">
-            Book Any Car Of Your Choice For Your Comfirt
+            Book Any Car Of Your Choice For Your Comfort
           </p>
 
           <div className="grid grid-cols-1 gap-2 mt-8 xl:mt-12 xl:gap-6 md:grid-cols-2 xl:grid-cols-4">
