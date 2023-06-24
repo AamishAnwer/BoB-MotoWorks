@@ -19,7 +19,7 @@ function App() {
       {/*------------------------------------------------------------------------------------------------------------ navbar ---------------------------------------------------------------------------------------------------------*/}
       <nav className="bg-white dark:bg-gray-900 fixed w-full z-20 top-0 left-0 border-b border-gray-200 dark:border-gray-600">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
-          <a href="https://flowbite.com/" className="flex items-center">
+          <a href="#" className="flex items-center">
             <img
               src="https://res.cloudinary.com/dcpte972l/image/upload/v1687609415/WhatsApp_Image_2023-06-24_at_13.04.02_h7lcvw.jpg"
               className="h-8 mr-3 logo"
@@ -899,7 +899,7 @@ function App() {
         <div className="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
           <div className="md:flex md:justify-between">
             <div className="mb-6 md:mb-0">
-              <a href="https://flowbite.com/" className="flex items-center">
+              <a href="#" className="flex items-center">
                 <img
                   src="https://res.cloudinary.com/dcpte972l/image/upload/v1687609415/WhatsApp_Image_2023-06-24_at_13.04.02_h7lcvw.jpg"
                   className="h-20 mr-20"
@@ -913,43 +913,34 @@ function App() {
             <div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
               <div>
                 <h2 className="mb-6 text-sm font-semibold text-lime-600 uppercase dark:text-white">
-                  Resources
+                  All Cars
                 </h2>
                 <ul className="text-lime-600 dark:text-white font-medium">
                   <li className="mb-4">
-                    <a href="https://flowbite.com/" className="hover:underline">
-                      Flowbite
+                    <a href="#" className="hover:underline">
+                      Rental Cars
                     </a>
                   </li>
                   <li>
-                    <a
-                      href="https://tailwindcss.com/"
-                      className="hover:underline"
-                    >
-                      Tailwind CSS
+                    <a href="#" className="hover:underline">
+                      Free Delivery
                     </a>
                   </li>
                 </ul>
               </div>
               <div>
                 <h2 className="mb-6 text-sm font-semibold text-lime-600 uppercase dark:text-white">
-                  Follow us
+                  Repair Car
                 </h2>
                 <ul className="text-lime-600 dark:text-white font-medium">
                   <li className="mb-4">
-                    <a
-                      href="https://github.com/themesberg/flowbite"
-                      className="hover:underline "
-                    >
-                      Github
+                    <a href="#" className="hover:underline ">
+                      Car Parts
                     </a>
                   </li>
                   <li>
-                    <a
-                      href="https://discord.gg/4eeurUVvTy"
-                      className="hover:underline"
-                    >
-                      Discord
+                    <a href="#" className="hover:underline">
+                      Inquiry
                     </a>
                   </li>
                 </ul>
@@ -977,8 +968,8 @@ function App() {
           <div className="sm:flex sm:items-center sm:justify-between">
             <span className="text-sm text-lime-600 sm:text-center dark:text-white">
               © 2023{" "}
-              <a href="https://flowbite.com/" className="hover:underline">
-                Flowbite™
+              <a href="#" className="hover:underline">
+                Mohammed Aamish Anwer™
               </a>
               . All Rights Reserved.
             </span>
